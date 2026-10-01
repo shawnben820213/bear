@@ -460,8 +460,8 @@ EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
         "EDGE_HOSTS",
-        "cf.1o.ee:443,saas.sin.fan:443,cf.777791.xyz:443,fn.130519.xyz:443,"
-        "www.shopify.com:443,uspto.gov:443,mail.murata.com:443",
+        "bbs.alipansou.com:443,224322.xyz:443,api.gzcrtw.com:443,p.etime.vip:443,"
+        "cf.xreak.top:443,cf.92555.xyz:443,cf.877774.xyz:443",
     ).split(",")
     if h.strip()
 ]
