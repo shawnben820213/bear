@@ -460,8 +460,8 @@ EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
         "EDGE_HOSTS",
-        "hostinger.com:8443,aftership.com:2053,api.uniapi.io:2087,hubspot.com:8443,"
-        "stlouiscountymo.gov:2053,linkvertise.com:2096,www.copilot.com:2096,email.lg.com:443,store.ubisoft.com:2083,www.mediafire.com:443,nodejs.org:2053",
+        "vps.cheng2001.top:443,tt.78607323.xyz:2096,www.galgamex.net:2083,cf-cname.xingpingcn.top:2087,"
+        "img.css.sd:2083,cf.itv888.cn:2096,fn.130519.xyz:443,cf.877774.xyz:443,cf.nyanya.moe:8443,www.wuduanyun.com:2096,saas.072159.xyz:2096",
     ).split(",")
     if h.strip()
 ]
